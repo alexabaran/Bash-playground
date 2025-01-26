@@ -1,2 +1,2 @@
 # Bash-playground
-Coding exercises and experiments - bash
+Coding exercises and experiments
